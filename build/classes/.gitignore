@@ -1,0 +1,10 @@
+/action
+/applicationContext.xml
+/dao
+/filter
+/hibernate.cfg.xml
+/hibernate.reveng.xml
+/po
+/service
+/struts.xml
+/test
